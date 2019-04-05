@@ -2,7 +2,7 @@ title:             Isaac's Blog
 email:             isaacjoyous@outlook.com
 description:       A machine learning machine learning
 author:            Isaac Joy
-baseurl:           "/startbootstrap-clean-blog-jekyll"
+baseurl:           ""
 url:               "http://isaacjoy.github.io"
 
 # Social Profiles
