@@ -3,3 +3,12 @@
 ---
 
 @import "styles";
+
+.profile_image img{
+  border-radius: 200px;
+  margin-bottom: 20px;
+}
+
+.profile_image img:hover{
+  border:7px solid white;
+}
